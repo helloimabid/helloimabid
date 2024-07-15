@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Abid
 
-<!--
-**helloimabid/helloimabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate web developer constantly learning and building new projects. Here's a bit about me and my work.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Portfolio Website](https://github.com/helloimabid/portfolio_new)
+A responsive and interactive portfolio showcasing my skills and projects. [Live Demo](https://helloimabid.github.io/portfolio_new/)
+
+### Other Repositories
+- [Bubble Popper Game](https://github.com/helloimabid/bubble-popper-game): A fun and engaging bubble popping game built with HTML, CSS, and JavaScript.
+
+## Skills
+- **Web Development**: HTML, CSS, JavaScript
+- **Frameworks/Libraries**: TailwindCSS
+- **Tools**: Git, GitHub
+
+## Contact
+
+Feel free to reach out to me through the contact form on my [website](https://helloimabid.github.io/portfolio_new/) or connect with me on [LinkedIn](https://www.linkedin.com/in/sadman-abid-b0a473302/).
+
+
+
