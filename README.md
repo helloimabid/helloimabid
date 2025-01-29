@@ -20,4 +20,5 @@ A responsive and interactive portfolio showcasing my skills and projects. [Live 
 Feel free to reach out to me through the contact form on my [website](https://portfolio-updated-ebjf.onrender.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sadman-abid-b0a473302/).
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helloimabid&show_icons=true&count_private=true)
 
