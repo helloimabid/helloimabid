@@ -2,13 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate web developer constantly learning and building new projects. Here's a bit about me and my work.
 
-## Projects
-
-### [Portfolio Website](https://github.com/helloimabid/portfolio-V1.0)
-A responsive and interactive portfolio showcasing my skills and projects. [Live Demo](https://helloimabid.me)
-
-### Other Repositories
-- [Bubble Popper Game](https://github.com/helloimabid/bubble-popper-game): A fun and engaging bubble popping game built with HTML, CSS, and JavaScript.
 
 ## Skills
 - **Languages**: C, C++, Python
